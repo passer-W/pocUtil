@@ -12,7 +12,7 @@
 
 1. 将md格式文件保存在`old_poc`目录下：
 
-2. 命令行执行`python get_poc.py`将自动上传文件中图片并转换格式
+2. 命令行执行`python get_poc.py`将自动上传`old_poc`目录下文件中的图片并转换格式
 
    <img src="images/image-20220115143227144.png" alt="image-20220115143227144" style="zoom:33%;" />	
 
